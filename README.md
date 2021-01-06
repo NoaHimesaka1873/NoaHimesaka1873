@@ -1,5 +1,5 @@
-[![NoaHimesaka1873's github stats](https://github-readme-stats.vercel.app/api?username=NoaHimesaka1873&show_icons=true&hide_border=true&theme=dark)](https://github.com/NoaHimesaka1873)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoaHimesaka1873&layout=compact&hide_border=true&theme=dark)](https://github.com/NoaHimesaka1873)
+[![NoaHimesaka1873's github stats](https://github-readme-stats.vercel.app/api?username=NoaHimesaka1873&show_icons=true&hide_border=true&theme=vision-friendly-dark)](https://github.com/NoaHimesaka1873)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoaHimesaka1873&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://github.com/NoaHimesaka1873)
 
 ## アタシ♡カワイイ♡宣言!!!, The “I’m Cute” Proclamation
 [Link to music](https://www.youtube.com/watch?v=YvHmHadBpi0)  
